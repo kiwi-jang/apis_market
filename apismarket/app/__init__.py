@@ -1,7 +1,7 @@
 # file name : __init__.py
 # pwd : /project_name/app/__init__.py
  
-from flaskimport Flask
+from flask import Flask
  
 app= Flask(__name__)
  
